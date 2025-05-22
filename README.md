@@ -18,9 +18,7 @@ This project is a basic **Java Applet** that demonstrates a simple **User Regist
 ## 🚀 How to Run
 
 1. **Compile the Applet**:
-   ```bash
    javac Registerex.java
-````
 
 3. **Run the Applet**:
 

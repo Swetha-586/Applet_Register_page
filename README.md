@@ -1,9 +1,4 @@
 # Applet_Register_page
-Here's a simple `README.md` file you can use to post your Java Applet project on GitHub:
-
----
-
-````markdown
 # Java Applet - User Registration and Login System
 
 This project is a basic **Java Applet** that demonstrates a simple **User Registration, Login, and Profile** display system using AWT (Abstract Window Toolkit).
